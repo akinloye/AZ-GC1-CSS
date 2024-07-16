@@ -1,0 +1,70 @@
+* { 
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: rgb(240, 236, 231);
+    padding: 10px;
+    margin: 157px;
+    width: max-content;
+    border: none;
+    height: 600px;
+}
+.header {
+    margin: 50px;
+    width: 400px;
+    border: none;
+    line-height: 130%;
+}
+#menu {
+    font-size: x-small;
+}
+
+#heading {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#theme {
+    font-size: 11px;
+}
+
+.image {
+    margin: 50px;
+    width: 600px;
+    height: 180px; 
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.frame {
+    margin: 70px;
+    width: 600px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 130px;
+}
+.frame_1 {
+    background-color: rgb(249, 249, 249);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 160px;
+    height: 180px;
+    padding:15px;
+    border: none;
+    position: relative;
+}
+.para {
+    line-height: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.special1 {
+    color: rgb(209, 126, 17);
+    font-family: 'Times New Roman', Times, serif;
+}
